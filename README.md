@@ -22,49 +22,20 @@ This walkthrou shows how administrator and normal user accounts are made in the 
 - Setup the Client's Remote Desktop for non-administrative users
 - Create normal users and log into the Client VM with one of them.
 
-<h2>Configuration Steps</h2>
+<h2>Creating your Active Directory with Admin and normal users.</h2>
+<h3>Creating Organizatonal Units and an Administrator</h3>
 
+<p></p>
 
-<h3>Configure Roles</h3>
-Create a "Supreme Admin" Role, in the Admin Panel
-Admin Panel -> Agents -> Roles
+<h3>Joining the Client VM to your domain</h3>
+
+<p></p>
+<h3>Setting up the Client's Remote Deskto for non-administrative users</h3>
+
+<p></p>
+<h3>Creating a number of non-administrative users</h3>
+
 <p>
-
-<h3>Configure Departments</h3>
-Create a "System Administrators" Department
-Admin Panel -> Agents -> Departments
-
-<h3>Configure Teams</h3>
-Create "Level I Support" and "Level II" Support Teams
-Admin Panel -> Agents -> Teams
-
-<h3>Allow anyone to create Tickets</h3>
-Admin Panel -> Settings -> User Settings
-Require registration and login to create tickets
-
-<h3>Configure Agents (Workers)</h3>
-Create two agents (Jane and John)
-Admin Panel -> Agents -> Add New
-
-<h3>Configure Users (Customers)</h3>
-Create two Users (Karen and Ken)
-Agent Panel -> Users -> Add New
-
-<h3>Configure SLA</h3>
-Create three different SLA's with different priority settings
-    Sev-A (1 hour, 24/7)
-    Sev-B (4 hours, 24/7)
-    Sev-C (8 hours, business hours)
-
-<h3>Configure Help Topics</h3>
-Create four different help topics
-    Business Critical Outage
-    Personal Computer Issues
-    Equipment Request
-    Password Reset
-Admin Panel -> Manage -> Help Topics
-
-
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
