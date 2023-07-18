@@ -1,20 +1,7 @@
-# AD-Creating-Users
-This shows how administrator and normal user accounts are made in the Active Directory
-
-# osTicket-Post-Installation-Configuration
-This is the list of all Virtual Machines and software that must be setup, downloaded and installed, for the osTicket system to work.
-
-<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
-
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+# Active Directory: Creating Administrators and Users
+This walkthrou shows how administrator and normal user accounts are made in the Active Directory, after the Active Directory has been installed
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,17 +12,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows Server 22
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Active Directory Creation Objectives</h2>
 
-- Configure Roles
-- Configure Departments
-- Configure Teams
-- Allow anyone to create tickets
-- Configure Agents (workers)
-- Configure Users (customers)
-- Configure SLA
-- Configure Help Topics
+- Creat Organizational Units
+- Create an Administrator
+- Join the Client VM to the domain
+- Setup the Client's Remote Desktop for non-administrative users
+- Create normal users and log into the Client VM with one of them.
 
 <h2>Configuration Steps</h2>
 
