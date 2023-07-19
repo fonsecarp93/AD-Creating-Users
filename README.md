@@ -16,7 +16,7 @@ This walkthrou shows how administrator and normal user accounts are made in the 
 
 <h2>Active Directory Creation Objectives</h2>
 
-- Creat Organizational Units
+- Create Organizational Units
 - Create an Administrator
 - Join the Client VM to the domain
 - Setup the Client's Remote Desktop for non-administrative users
