@@ -56,36 +56,16 @@ This walkthrou shows how administrator and normal user accounts are made in the 
 
 <p></p>
 <h3>Creating a number of non-administrative users</h3>
- - Login to DC-1 as jane_admin
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- - Open PowerShell_ise as an administrator
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ - Login to DC-1 as jane_admin and open PowerShell_ise as an administrator
+<img src="https://i.imgur.com/oh6YQr0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rnq1Ije.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  - Create a new file and paste the contents of this [script](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) into it
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7o4XUs9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  - Run the script and observe the accounts being created
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TEaGPCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  - Open the Active Directory Users and Computers and observe the accounts in their respective Organizational Unit
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://i.imgur.com/2zGiwVt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 
 </p>
-<br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
