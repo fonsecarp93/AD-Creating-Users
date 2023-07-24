@@ -1,5 +1,5 @@
 # Active Directory: Creating Administrators and Users
-This walkthrou shows how administrator and normal user accounts are made in the Active Directory, after the Active Directory has been installed
+This walkthrough shows how administrator and normal user accounts are made in the Active Directory, after the Active Directory has been installed
 
 
 
